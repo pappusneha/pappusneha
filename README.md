@@ -8,7 +8,7 @@ With **11 years of experience** in software development, I have a strong backgro
 
 ## **🔧 Technologies & Skills:**  
 
-🚀 **Backend Development:** Java, Node.js, Spring Boot, REST APIs  
+🚀 **Backend Development:** Java, Python, Node.js, Spring Boot, FastAPI,  REST APIs  
 ☁️ **Cloud Platforms:** AWS, GCP  
 📊 **Databases:** Oracle, PostgreSQL, MongoDB  
 🔗 **API & Messaging:** GraphQL, Confluent Kafka  
