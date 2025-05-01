@@ -37,13 +37,6 @@ https://github.com/pappusneha/PCOSBuddy_backend
 
 ---
 
-## **📈 GitHub Stats**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pappusneha&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pappusneha&layout=compact&theme=radical)  
-
----
-
 ## **📫 Let's Connect!**  
 
 💼 **LinkedIn:** [Sneha Pappu](https://www.linkedin.com/in/sneha-pappu-3a191320/)  
