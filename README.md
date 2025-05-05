@@ -25,7 +25,7 @@ With **11 years of experience** in software development, I have a strong backgro
 - Migrate legacy platforms to **cloud-native microservices** on AWS and GCP  
 - Enhance CI/CD pipelines to support faster, safer deployments  
 - Combine analytical thinking with creative problem solving (and a splash of color 🎨)
-- Currently learning frontend development (React.js is growing on me... like a bug I can't debug)
+- Currently learning frontend development
 
 Exploring Generative AI and LLMs — because apparently now my code has to be smart and conversational
 
