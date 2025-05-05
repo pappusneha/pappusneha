@@ -45,5 +45,5 @@ https://github.com/pappusneha/PCOSBuddy_backend
 
 ---
 
-✨ **Always exploring, always building, and always empowering women in tech.  
-Let’s code with confidence — and maybe a little glitter 💻✨
+✨ **Always exploring, always building, and always supporting women in tech.  
+Let’s code with confidence and creativity 💻✨
