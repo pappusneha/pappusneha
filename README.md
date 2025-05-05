@@ -40,8 +40,8 @@ https://github.com/pappusneha/PCOSBuddy_backend
 ## **Let's Connect!**  
 
 **LinkedIn:** [Sneha Pappu](https://www.linkedin.com/in/sneha-pappu-3a191320/)  
-**Blog/Articles:** Coming soon – powered by coffee & chaos  
-**Email:** Drop a DM on LinkedIn – inbox is open like my GitHub PRs  
+**Blog/Articles:** Coming soon
+**Email:** pappusneha@gmail.com
 
 ---
 
